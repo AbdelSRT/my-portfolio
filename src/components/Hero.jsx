@@ -31,10 +31,12 @@ const Hero = () => {
             Wed Developer
           </h3>
           <p className="text-sm text-gray-400 md:text-base text-pretty">
-            Ik ben een gepassioneerde en gedreven Full Stack Developer uit
-            Hasselt. Met een sterke focus op zowel front-end als back-end
-            development, heb ik expertise opgebouwd in meerdere web
-            technologieën.
+            Ik ben een gepassioneerde en gedreven Web Developer uit Hasselt. Met
+            een sterke focus op zowel front-end als back-end development, heb ik
+            expertise opgebouwd in meerdere web technologieën. Wat mij
+            onderscheidt, is mijn nieuwsgierigheid en drive om altijd te blijven
+            leren. Ik streef ernaar om met mijn werk een verschil te maken en
+            elke uitdaging met een frisse en doelgerichte aanpak aan te pakken.
           </p>
         </motion.div>
       </div>
