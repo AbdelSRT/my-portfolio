@@ -28,7 +28,7 @@ const Hero = () => {
             Abdelouahid Essarti
           </h1>
           <h3 className="text-2xl text-transparent bg-gradient-to-r from-pink-500 md:text-3xl to-blue-500 bg-clip-text">
-            Wed Developer
+            Web Developer
           </h3>
           <p className="text-sm text-gray-400 md:text-base text-pretty">
             Ik ben een gepassioneerde en gedreven Web Developer uit Hasselt. Met
